@@ -1,8 +1,8 @@
 Laporan Praktikum Pemrograman Basis Data
 
 Identitas
-- **Nama**: Fadhila Suardi
-- **NIM**: IK2411018
+- **Nama**: RIADARMAWANGSI
+- **NIM**: IK2411056
 - **Mata Kuliah**: Pemrograman Basis Data
 
 ---
